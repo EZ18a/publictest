@@ -10,6 +10,7 @@ Bfdsa
 
 ISSE#１はU
 C
+issue #1 ok
 #1
 
 ###test2
